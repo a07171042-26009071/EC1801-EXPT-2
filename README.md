@@ -21,10 +21,12 @@ File name	Purpose
 logic_gates.v	Logic-gate RTL
 logic_gates_tb.v	All input combinations and VCD generation
  # Verilog  Program
+<img width="1162" height="356" alt="Screenshot 2026-11-25 080008" src="https://github.com/user-attachments/assets/1a0d7c24-46b3-4200-9866-92c6bf253924" />
 
 # **Test Bench Program**
 
 
+<img width="1118" height="787" alt="Screenshot 2026-11-25 080037" src="https://github.com/user-attachments/assets/eb6b51c1-cfcc-4470-8a73-164b56ccacfb" />
 
 
  
@@ -78,6 +80,7 @@ Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 Output
 # OUTPUT
+<img width="1118" height="787" alt="Screenshot 2026-11-25 080037" src="https://github.com/user-attachments/assets/1754a9d8-fde3-42c8-b23c-b1b01441c4f8" />
 
 
  
