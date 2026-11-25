@@ -24,8 +24,6 @@ logic_gates_tb.v	All input combinations and VCD generation
 <img width="1162" height="356" alt="Screenshot 2026-11-25 080008" src="https://github.com/user-attachments/assets/1a0d7c24-46b3-4200-9866-92c6bf253924" />
 
 # **Test Bench Program**
-
-
 <img width="1118" height="787" alt="Screenshot 2026-11-25 080037" src="https://github.com/user-attachments/assets/eb6b51c1-cfcc-4470-8a73-164b56ccacfb" />
 
 
